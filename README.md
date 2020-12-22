@@ -1,5 +1,6 @@
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 5: California Wildfires
+#### Carly Sharma, Jake Parker, & Adam Zucker
 
 ### Problem Statement
 Given California's history of terrible wildfires, we've set out to predict the potential severity of future fires based on past fire data, county-specific weather patterns, and global atmospheric carbon data. We'll use a variety of models, including Logistic Regression, K-Nearest Neighbors, a Random Forest Classifier, a Support Vector Classifier, and a Convolutional Neural Network. With these predictions, we hope to recommend mitigating factors and aid the California Department of Forestry and Fire Protection (Cal Fire) in stopping the spread of wildfires in their earliest stages.
