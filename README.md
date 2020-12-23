@@ -80,7 +80,7 @@ As climate change becomes an ever-increasing concern for the health and longevit
 
 ---
 
-### Conclusions & Recommendation
+### Conclusions & Recommendations
 * From our EDA, we found that counties in higher elevations tend to have more and larger fires. Expectedly, precipitation levels and maximum temperatures also contribute heavily to the likelihood of wildfires - low rainfall and snowfall equates to a higher chance of a large fire, as does an extreme monthly temperature of above 90 degrees Fahrenheit.
 * Wildfires are most prevalent in the Summer and Fall seasons. Specifically in July, we noticed an especially high occurrence of small and large wildfires.
 * The most frequently occurring fires are small in terms of acres burned, but many small fires can add up to a large amount of damage.
