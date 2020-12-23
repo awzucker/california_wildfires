@@ -70,12 +70,12 @@ As climate change becomes an ever-increasing concern for the health and longevit
 * In Notebook 2, we went on to explore the data, select our desired features, account for multicollinearity, and engineer potentially useful features (such as season and month of the fire). We plotted various Seaborn heatmaps, and generated a number of correlation matrices to examine features we wanted to include in our final models.
 * We visualized our data in Notebook 3, looking at graphs to compare acres burned by county, month, season, and year; total acres burned in California between 2017 and 2019; duration of fire by county; and average duration of fire based on severity.
 * We ultimately tested 5 classification models: Logistic Regression, K-Nearest Neighbors, a Random Forest Classifier, a Support Vector Classifier, and a Convolutional Neural Network. Our target feature was the total acres burned, classified into bins we defined as:
-  * **Bin 1:** 50 acres or below
-  * **Bin 2:** 100 acres or below, and greater than 50 acres
-  * **Bin 3:** 250 acres or below, and greater than 100 acres
-  * **Bin 4:** 500 acres or below, and greater than 250 acres
-  * **Bin 5:** 1000 acres or below, and greater than 500 acres
-  * **Bin 6:** Greater than 1000 acres
+  * **Bin 0:** 50 acres or below
+  * **Bin 1:** 100 acres or below, and greater than 50 acres
+  * **Bin 2:** 250 acres or below, and greater than 100 acres
+  * **Bin 3:** 500 acres or below, and greater than 250 acres
+  * **Bin 4:** 1000 acres or below, and greater than 500 acres
+  * **Bin 5:** Greater than 1000 acres
 
 
 ---
