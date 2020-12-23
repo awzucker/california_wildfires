@@ -8,7 +8,7 @@ Given California's history of terrible wildfires, we've set out to predict the p
 
 ---
 ### Background Research
-NEED TO FILL THIS IN
+As climate change becomes an ever-increasing concern for the health and longevity of the Earth, wildfires, and their severity, have proportionally been on the rise. Arid climates, such as those found in many parts of California, are at particularly high risk - 2019 and 2020 have seen some of the most destructive fires in the state's history ([Cal Fire](https://www.fire.ca.gov/)). Cal Fire has implemented measures in attempt to mitigate the spread of wildfires, but we would like to investigate if there are more specific actions to be taken to help prevent the start, and most certainly the spread of these fires.
 
 ---
 ### Contents
@@ -80,12 +80,21 @@ NEED TO FILL THIS IN
 
 ---
 
-### Conclusions & Considerations
-* NEED TO FILL THIS IN
-*
-*
-*
-*
+### Conclusions & Recommendation
+* From our EDA, we found that counties in higher elevations tend to have more and larger fires. Expectedly, precipitation levels and maximum temperatures also contribute heavily to the likelihood of wildfires - low rainfall and snowfall equates to a higher chance of a large fire, as does an extreme monthly temperature of above 90 degrees Fahrenheit.
+* Wildfires are most prevalent in the Summer and Fall seasons. Specifically in July, we noticed an especially high occurrence of small and large wildfires.
+* The most frequently occurring fires are small in terms of acres burned, but many small fires can add up to a large amount of damage.
+* We would recommend controlled burn-offs of dry foliage leading up to fire season (Summer into Fall), especially in arid and high-elevation areas.
+* We would also recommend reallocation of resources and firefighters based on environmental and weather conditions, such that more units can respond as quickly as possible to a fire threat, thus stopping the spread of the fire.
+
+
+
+#### Further Research
+* Given the time, we'd like to look at wind speeds at the time the fire started, and not just the monthly average, as this could inform how quickly a fire spreads.
+* We'd also like to compare rural versus urban areas, in order to try to get a feel for where and how the most severe fires start and spread.
+* Looking at a longer history of fires in California, and globally, would be an interesting and informative metric if we had access to longer-term data.
+* We could research and gather more data on the concrete effects of climate change on already fire-prone environments.
+
 
 ---
 
@@ -93,3 +102,4 @@ NEED TO FILL THIS IN
 * [Kaggle](https://www.kaggle.com/ananthu017/california-wildfire-incidents-20132020?select=California_Fire_Incidents.csv) California wildfire data
 * [NOAA](https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C00946/html) meteorological data
 * [NOAA/Mauna Loa Observatory](https://www.esrl.noaa.gov/gmd/dv/data/index.php?parameter_name=Carbon%2BDioxide&search=mauna+loa) atmospheric carbon data
+* [Cal Fire](https://www.fire.ca.gov/)
